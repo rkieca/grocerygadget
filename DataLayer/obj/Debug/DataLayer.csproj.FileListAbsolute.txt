@@ -1,0 +1,25 @@
+\\acad.dvuadmin.net\sce\homedir\d01676430\documents\visual studio 2012\Projects\TeamGG_CourseProject_Website_V1\DataLayer\bin\Debug\DataLayer.dll
+\\acad.dvuadmin.net\sce\homedir\d01676430\documents\visual studio 2012\Projects\TeamGG_CourseProject_Website_V1\DataLayer\bin\Debug\DataLayer.pdb
+\\acad.dvuadmin.net\sce\homedir\d01676430\documents\visual studio 2012\Projects\TeamGG_CourseProject_Website_V1\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+\\acad.dvuadmin.net\sce\homedir\d01676430\documents\visual studio 2012\Projects\TeamGG_CourseProject_Website_V1\DataLayer\obj\Debug\DataLayer.dll
+\\acad.dvuadmin.net\sce\homedir\d01676430\documents\visual studio 2012\Projects\TeamGG_CourseProject_Website_V1\DataLayer\obj\Debug\DataLayer.pdb
+\\Client\C$\Users\LATTJR\Senior Project\TeamGG_CourseProject_Website_V1\DataLayer\bin\Debug\DataLayer.dll
+\\Client\C$\Users\LATTJR\Senior Project\TeamGG_CourseProject_Website_V1\DataLayer\bin\Debug\DataLayer.pdb
+\\Client\C$\Users\LATTJR\Senior Project\TeamGG_CourseProject_Website_V1\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+\\Client\C$\Users\LATTJR\Senior Project\TeamGG_CourseProject_Website_V1\DataLayer\obj\Debug\DataLayer.dll
+\\Client\C$\Users\LATTJR\Senior Project\TeamGG_CourseProject_Website_V1\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Robert\Desktop\SENIOR PROJECT GG\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Robert\Desktop\SENIOR PROJECT GG\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Robert\Desktop\SENIOR PROJECT GG\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Robert\Desktop\SENIOR PROJECT GG\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Robert\Desktop\SENIOR PROJECT GG\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\DEVRY\9. May 2016 Session\2. CIS 477 Senior Project P2\Week 8\SENIOR PROJECT GG_Week8 FINAL\SENIOR PROJECT GG\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Robert\Documents\DEVRY\9. May 2016 Session\2. CIS 477 Senior Project P2\Week 8\SENIOR PROJECT GG_Week8 FINAL\SENIOR PROJECT GG\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Robert\Documents\DEVRY\9. May 2016 Session\2. CIS 477 Senior Project P2\Week 8\SENIOR PROJECT GG_Week8 FINAL\SENIOR PROJECT GG\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\DEVRY\9. May 2016 Session\2. CIS 477 Senior Project P2\Week 8\SENIOR PROJECT GG_Week8 FINAL\SENIOR PROJECT GG\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Robert\Documents\DEVRY\9. May 2016 Session\2. CIS 477 Senior Project P2\Week 8\SENIOR PROJECT GG_Week8 FINAL\SENIOR PROJECT GG\DataLayer\obj\Debug\DataLayer.pdb
+Z:\Documents\DEVRY\9. May 2016 Session\2. CIS 477 Senior Project P2\Week 8\SENIOR PROJECT GG_Week8 FINAL\SENIOR PROJECT GG\DataLayer\bin\Debug\DataLayer.dll
+Z:\Documents\DEVRY\9. May 2016 Session\2. CIS 477 Senior Project P2\Week 8\SENIOR PROJECT GG_Week8 FINAL\SENIOR PROJECT GG\DataLayer\bin\Debug\DataLayer.pdb
+Z:\Documents\DEVRY\9. May 2016 Session\2. CIS 477 Senior Project P2\Week 8\SENIOR PROJECT GG_Week8 FINAL\SENIOR PROJECT GG\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+Z:\Documents\DEVRY\9. May 2016 Session\2. CIS 477 Senior Project P2\Week 8\SENIOR PROJECT GG_Week8 FINAL\SENIOR PROJECT GG\DataLayer\obj\Debug\DataLayer.dll
+Z:\Documents\DEVRY\9. May 2016 Session\2. CIS 477 Senior Project P2\Week 8\SENIOR PROJECT GG_Week8 FINAL\SENIOR PROJECT GG\DataLayer\obj\Debug\DataLayer.pdb
